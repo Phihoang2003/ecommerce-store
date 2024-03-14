@@ -1,4 +1,9 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+
+=======
+LINK DEPLOY WEBSITE: https://ecommerce-store-omega-five.vercel.app
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+>>>>>>> f169cdd3bb6a99c168fab3c40f02a2603d522444
 
 ![Copy of Copy of Fullstack Twitter Clone (1)](https://github.com/AntonioErdeljac/next13-ecommerce-admin/assets/23248726/088760cb-837d-44b7-a959-63089385d0a0)
 
